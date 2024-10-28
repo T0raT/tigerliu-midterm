@@ -1,0 +1,7 @@
+{
+  "python.analysis.autoImportCompletions": false,
+  "workbench.colorCustomizations": {
+    "minimap.background": "#00000010",
+    "scrollbar.shadow": "#00000010"
+  }
+}
